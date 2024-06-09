@@ -1,0 +1,52 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\mrpes\source\repos\ConsoleApplication1\view.h(23,25): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+C:\Users\mrpes\source\repos\ConsoleApplication1\view.h(27,28): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+C:\Users\mrpes\source\repos\ConsoleApplication1\view.h(31,26): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+C:\Users\mrpes\source\repos\ConsoleApplication1\view.h(34,29): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+C:\Users\mrpes\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(37,42): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+C:\Users\mrpes\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(37,42): warning C4244:         with
+C:\Users\mrpes\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(37,42): warning C4244:         [
+C:\Users\mrpes\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(37,42): warning C4244:             T=int
+C:\Users\mrpes\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(37,42): warning C4244:         ]
+C:\Users\mrpes\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(37,39): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+C:\Users\mrpes\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(37,39): warning C4244:         with
+C:\Users\mrpes\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(37,39): warning C4244:         [
+C:\Users\mrpes\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(37,39): warning C4244:             T=int
+C:\Users\mrpes\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(37,39): warning C4244:         ]
+C:\Users\mrpes\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(88,14): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\mrpes\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(89,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\mrpes\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(99,18): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\mrpes\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(107,18): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\mrpes\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(194,14): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+C:\Users\mrpes\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(226,18): warning C4244: =: преобразование "T" в "int", возможна потеря данных
+C:\Users\mrpes\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(226,18): warning C4244:         with
+C:\Users\mrpes\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(226,18): warning C4244:         [
+C:\Users\mrpes\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(226,18): warning C4244:             T=float
+C:\Users\mrpes\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(226,18): warning C4244:         ]
+C:\Users\mrpes\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(227,18): warning C4244: =: преобразование "T" в "int", возможна потеря данных
+C:\Users\mrpes\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(227,18): warning C4244:         with
+C:\Users\mrpes\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(227,18): warning C4244:         [
+C:\Users\mrpes\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(227,18): warning C4244:             T=float
+C:\Users\mrpes\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(227,18): warning C4244:         ]
+C:\Users\mrpes\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(230,22): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\mrpes\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(242,39): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\mrpes\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(243,39): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\mrpes\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(252,26): warning C4305: =: усечение из "double" в "float"
+C:\Users\mrpes\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(253,27): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\mrpes\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(259,26): warning C4305: =: усечение из "double" в "float"
+C:\Users\mrpes\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(260,27): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\mrpes\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(266,26): warning C4305: =: усечение из "double" в "float"
+C:\Users\mrpes\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(267,27): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\mrpes\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(273,26): warning C4305: =: усечение из "double" в "float"
+C:\Users\mrpes\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(275,27): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\mrpes\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(299,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\mrpes\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(299,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  ConsoleApplication1.vcxproj -> C:\Users\mrpes\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
